@@ -706,21 +706,6 @@ IP-CIDR,1.12.12.12/32,no-resolve
 
 #谷歌CN
 DOMAIN-SUFFIX,mtalk.google.com
-DOMAIN-SUFFIX,cache.pack.google.com
-DOMAIN-SUFFIX,clickserve.dartsearch.net
-DOMAIN-SUFFIX,crl.pki.goog
-DOMAIN-SUFFIX,dl.google.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,gtm.oasisfeng.com
-DOMAIN-SUFFIX,ocsp.pki.goog
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,safebrowsing-cache.google.com
-DOMAIN-SUFFIX,settings.crashlytics.com
-DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
-DOMAIN-SUFFIX,toolbarqueries.google.com
-DOMAIN-SUFFIX,tools.google.com
-DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 
 # Microsoft Services
 DOMAIN-SUFFIX,microsoft
@@ -753,3 +738,4 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 
 IP-CIDR,205.180.175.0/24,no-resolve
+

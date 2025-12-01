@@ -10,13 +10,14 @@ DOMAIN-SUFFIX,speedtest.net
 
 # IP Detection
 DOMAIN-SUFFIX,whatismyipaddress.com
-DOMAIN-SUFFIX,api.myip.com
-DOMAIN-SUFFIX,api.myip.sb
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,myip.sb
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipinfo.co
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,api.ip.sb
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,ipgeolocation.io

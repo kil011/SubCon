@@ -1,5 +1,6 @@
 # Mylist
 DOMAIN-SUFFIX,vesselfinder.com
+DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,maerskline.com
 DOMAIN-SUFFIX,maersk.com
@@ -166,4 +167,5 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 

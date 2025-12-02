@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,goofish.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
@@ -738,4 +739,5 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 
 IP-CIDR,205.180.175.0/24,no-resolve
+
 

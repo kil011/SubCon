@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,msn.com
 
 # 域名
 DOMAIN-SUFFIX,US
@@ -167,5 +168,6 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 

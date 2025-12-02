@@ -49,13 +49,13 @@ DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 
 # YouTube
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,gvt1.com
+#DOMAIN-SUFFIX,youtube.com
+#DOMAIN-SUFFIX,googlevideo.com
+#DOMAIN-SUFFIX,ytimg.com
+#DOMAIN,youtubei.googleapis.com
+#DOMAIN-SUFFIX,youtu.be
+#DOMAIN-SUFFIX,yt.be
+#DOMAIN-SUFFIX,gvt1.com
 
 # Top Blocked Sites
 DOMAIN-SUFFIX,archive.org
@@ -141,3 +141,4 @@ DOMAIN-SUFFIX,edge-mqtt.facebook.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikibooks.org
+

@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,aldi.us
 DOMAIN-SUFFIX,qvc.com
 DOMAIN-SUFFIX,bmr.ca
 DOMAIN-SUFFIX,canadiantire.ca
+DOMAIN-SUFFIX,canadiantire.scene7.com
 DOMAIN-SUFFIX,burlington.com
 DOMAIN-SUFFIX,sierra.com
 DOMAIN-SUFFIX,costco.com
@@ -171,6 +172,7 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

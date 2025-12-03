@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,mzstatic.com
+#DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,apple.news
@@ -172,6 +172,7 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

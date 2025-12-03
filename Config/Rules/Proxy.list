@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,chatway.app
-DOMAIN-KEYWORD,samsung
 
 # IP Detection
 DOMAIN-SUFFIX,2ip.io

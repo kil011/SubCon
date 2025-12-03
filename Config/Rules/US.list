@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+DOMAIN-SUFFIX,state.gov
 
 # 域名
 DOMAIN-SUFFIX,US
@@ -170,6 +171,7 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

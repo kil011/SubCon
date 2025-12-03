@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,quantumult.app
+DOMAIN-SUFFIX,vectorpea.com
+DOMAIN-SUFFIX,photopea.com
 
 # IP Detection
 DOMAIN-SUFFIX,2ip.io

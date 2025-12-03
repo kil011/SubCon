@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,speedtest.net

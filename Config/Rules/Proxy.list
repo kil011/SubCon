@@ -17,43 +17,108 @@ DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,quantumult.app
 
 # IP Detection
-DOMAIN-SUFFIX,whatismyipaddress.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,myip.com
-DOMAIN-SUFFIX,myip.sb
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipinfo.co
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,ident.me
-DOMAIN-SUFFIX,ipgeolocation.io
-DOMAIN-SUFFIX,freeipapi.com
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,abstractapi.com
+DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,findip.net
-DOMAIN-SUFFIX,ipstack.com
-DOMAIN-SUFFIX,ip2location.io
-DOMAIN-SUFFIX,ip2location.com
-DOMAIN-SUFFIX,ipapi.com
-DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,freeipapi.com
 DOMAIN-SUFFIX,geoapify.com
-DOMAIN-SUFFIX,whatismyip.com
-DOMAIN-SUFFIX,myip.com
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,geojs.io
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip2location.com
+DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,ipaddress.my
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ipapi.com
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,ipdetect.com
+DOMAIN-SUFFIX,ipdrak.com
+DOMAIN-SUFFIX,ipfind.com
+DOMAIN-SUFFIX,ipgeolocation.io
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipinfo.co
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipinfojson.com
+DOMAIN-SUFFIX,iplocation.io
+DOMAIN-SUFFIX,iplocation.net
+DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,myip.sb
+DOMAIN-SUFFIX,requestip.com
+DOMAIN-SUFFIX,whatismyip.com
+DOMAIN-SUFFIX,whatismyip.host
+DOMAIN-SUFFIX,whatismyip.net
+DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,wtfismyip.com
 
 # Netflix
+DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+IP-CIDR,8.41.4.0/24,no-resolve
+IP-CIDR,23.246.0.0/18,no-resolve
+IP-CIDR,37.77.184.0/21,no-resolve
+IP-CIDR,38.72.126.0/24,no-resolve
+IP-CIDR,45.57.0.0/17,no-resolve
+IP-CIDR,64.120.128.0/17,no-resolve
+IP-CIDR,66.197.128.0/17,no-resolve
+IP-CIDR,69.53.224.0/19,no-resolve
+IP-CIDR,103.87.204.0/22,no-resolve
+IP-CIDR,108.175.32.0/20,no-resolve
+IP-CIDR,185.2.220.0/22,no-resolve
+IP-CIDR,185.9.188.0/22,no-resolve
+IP-CIDR,192.173.64.0/18,no-resolve
+IP-CIDR,198.38.96.0/19,no-resolve
+IP-CIDR,198.45.48.0/20,no-resolve
+IP-CIDR,203.75.84.0/24,no-resolve
+IP-CIDR,207.45.72.0/22,no-resolve
+IP-CIDR,208.75.76.0/22,no-resolve
+
+# Twitch
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
 
 # TikTok
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
 
 # YouTube
 #DOMAIN-SUFFIX,youtube.com
@@ -127,9 +192,11 @@ IP-CIDR,204.15.20.0/22,no-resolve
 
 # Github
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,githubassets.com
 
 # Google
 DOMAIN-SUFFIX,google.com
@@ -192,6 +259,23 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
+
+# Line
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,nhncorp.jp
+IP-CIDR,103.2.28.0/24,no-resolve
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,119.235.224.0/24,no-resolve
+IP-CIDR,119.235.232.0/24,no-resolve
+IP-CIDR,119.235.235.0/24,no-resolve
+IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.128.0/19,no-resolve
 
 # Wikipedia
 DOMAIN-SUFFIX,wikimedia.org

@@ -215,6 +215,7 @@ DOMAIN-SUFFIX,ssl.gstatic.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googletagmanager.com
 
 # Instagram
 DOMAIN-SUFFIX,cdninstagram.com

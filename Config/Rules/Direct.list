@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,263.net
 #DOMAIN-SUFFIX,sonos.com
 #DOMAIN-SUFFIX,vectorpea.com
 #DOMAIN-SUFFIX,photopea.com
+IP-CIDR,58.213.23.0/21,no-resolve
 
 # CN域名
 DOMAIN-SUFFIX,cn
@@ -948,6 +949,7 @@ IP-CIDR,101.198.196.0/22,no-resolve
 IP-CIDR,101.198.200.0/21,no-resolve
 IP-CIDR,101.198.208.0/20,no-resolve
 IP-CIDR,101.199.196.0/22,no-resolve
+
 
 
 

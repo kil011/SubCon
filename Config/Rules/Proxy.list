@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,ddgksf2013.top
-DOMAIN-SUFFIX,panel3.touhou.tel
+DOMAIN-SUFFIX,touhou.tel
 DOMAIN-SUFFIX,zongyunti.com
 DOMAIN-SUFFIX,cdn8848.com
 DOMAIN-SUFFIX,adguard.org
@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,chatway.app
 # IP Detection
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,abstractapi.com
-DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,findip.net
 DOMAIN-SUFFIX,freeipapi.com

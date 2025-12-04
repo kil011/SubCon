@@ -1,4 +1,6 @@
 # MyList
+DOMAIN-SUFFIX,kuaidi.com
+DOMAIN-SUFIIX,kuaidi100.com
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,boki.moe
 DOMAIN-SUFFIX,gitee.com
@@ -1032,14 +1034,3 @@ IP-CIDR,101.198.196.0/22,no-resolve
 IP-CIDR,101.198.200.0/21,no-resolve
 IP-CIDR,101.198.208.0/20,no-resolve
 IP-CIDR,101.199.196.0/22,no-resolve
-
-
-
-
-
-
-
-
-
-
-

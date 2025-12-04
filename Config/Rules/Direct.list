@@ -773,7 +773,7 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,staffhub.ms
-DOMAIN-SUFFIX,svc.ms
+#DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com

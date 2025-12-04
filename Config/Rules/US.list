@@ -128,6 +128,10 @@ DOMAIN-SUFFIX,dify.ai
 ## Google AI (Gemini/Bard)
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
@@ -173,6 +177,7 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

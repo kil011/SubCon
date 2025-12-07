@@ -1,21 +1,8 @@
 # Mylist
-DOMAIN-SUFFIX,dhl.com
-DOMAIN-SUFFIX,5idhl.com
-DOMAIN-SUFFIX,fedex.com
-DOMAIN-SUFFIX,ups.com
-DOMAIN-SUFFIX,testflight.apple.com
-DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,news-assets.apple.com
-DOMAIN-SUFFIX,tello.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
-DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,state.gov
 
 # 域名
 DOMAIN-SUFFIX,US

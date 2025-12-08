@@ -1,5 +1,4 @@
 # Mylist
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
 DOMAIN-SUFFIX,amazon
@@ -115,6 +114,10 @@ DOMAIN-SUFFIX,colab.google.com
 DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 
 ## JetBrains AI
 DOMAIN-SUFFIX,grazie.ai

@@ -1,4 +1,10 @@
 # My list
+DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,5idhl.com
 DOMAIN-SUFFIX,fedex.com

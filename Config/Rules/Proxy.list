@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,chatway.app
-IP-CIDR,8.8.8.8,no-resolve
 
 # IP Detection
 DOMAIN-SUFFIX,2ip.io

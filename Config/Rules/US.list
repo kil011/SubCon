@@ -90,7 +90,6 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gemini.google.com
@@ -100,14 +99,19 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,colab.google.com
 DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
-DOMAIN-SUFFIX,oauth2.googleapis.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
+DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,gateway-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,opa-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
+DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
+DOMAIN-SUFFIX,ulr-pa.googleapis.com
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 # Meta
@@ -139,4 +143,5 @@ DOMAIN-SUFFIX,poecdn.net
 # XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 

@@ -61,7 +61,6 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,chatway.app
 IP-CIDR,54.223.4.220/32,no-resolve
-IP-CIDR,8.8.8.8/32,no-resolve
 
 # IP Detection
 DOMAIN-SUFFIX,2ip.io

@@ -35,8 +35,8 @@ DOMAIN-SUFFIX,fuckfbi.ru
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,ddgksf2013.top
-DOMAIN-SUFFIX,api.wcc.best
-DOMAIN-SUFFIX,sub.xeton.dev
+#DOMAIN-SUFFIX,api.wcc.best
+#DOMAIN-SUFFIX,sub.xeton.dev
 DOMAIN-SUFFIX,touhou.center
 DOMAIN-SUFFIX,touhou.tel
 DOMAIN-SUFFIX,zongyunti.com

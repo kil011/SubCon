@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 DOMAIN-SUFFIX,ulr-pa.googleapis.com
+DOMAIN-SUFFIX,userlocation.googleapis.com
 DOMAIN-SUFFIX,voilatile-pa.googleapis.com
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
@@ -146,6 +147,7 @@ DOMAIN-SUFFIX,poecdn.net
 # XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

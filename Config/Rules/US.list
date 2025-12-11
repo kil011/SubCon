@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,CA
 DOMAIN-SUFFIX,MX
 
 # 北美超市
+DOMAIN-SUFFIX,homehardware.ca
+DOMAIN-SUFFIX,homehardwarecenter.com
 DOMAIN-SUFFIX,regency-rib.com
 DOMAIN-SUFFIX,bhg.com
 DOMAIN-SUFFIX,michaels.com
@@ -144,6 +146,7 @@ DOMAIN-SUFFIX,poecdn.net
 # XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 
 
 

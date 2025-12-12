@@ -104,7 +104,6 @@ DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
 DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,gateway-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
@@ -114,9 +113,7 @@ DOMAIN-SUFFIX,opa-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
-DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
-DOMAIN-SUFFIX,ulr-pa.googleapis.com
-DOMAIN-SUFFIX,userlocation.googleapis.com
+DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 DOMAIN-SUFFIX,voilatile-pa.googleapis.com
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai

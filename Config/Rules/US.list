@@ -1,11 +1,6 @@
 # Mylist
 DOMAIN-SUFFIX,podcasts.apple.com
 
-# 域名
-#DOMAIN-SUFFIX,US
-#DOMAIN-SUFFIX,CA
-#DOMAIN-SUFFIX,MX
-
 # 北美超市
 DOMAIN-SUFFIX,homehardware.ca
 DOMAIN-SUFFIX,homehardwarecenter.com

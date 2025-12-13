@@ -1,50 +1,10 @@
 # Mylist
-DOMAIN-SUFFIX,podcasts.apple.com
-
-# 北美超市
-DOMAIN-SUFFIX,homehardware.ca
 DOMAIN-SUFFIX,homehardwarecenter.com
-DOMAIN-SUFFIX,regency-rib.com
-DOMAIN-SUFFIX,bhg.com
-DOMAIN-SUFFIX,michaels.com
-DOMAIN-SUFFIX,kirklands.com
-DOMAIN-SUFFIX,naturaedecor.com
-DOMAIN-SUFFIX,nearlynatural.com
-DOMAIN-SUFFIX,rona.ca
-DOMAIN-SUFFIX,hobbylobby.com
-DOMAIN-SUFFIX,homesense.com
-DOMAIN-SUFFIX,homegoods.com
-DOMAIN-SUFFIX,marshalls.com
-DOMAIN-SUFFIX,tjx.com
-DOMAIN-SUFFIX,tractorsupply.com
-DOMAIN-SUFFIX,doitbest.com
-DOMAIN-SUFFIX,kroger.com
-DOMAIN-SUFFIX,athome.com
-DOMAIN-SUFFIX,365curbappeal.com
-DOMAIN-SUFFIX,walmart.com
-DOMAIN-SUFFIX,aldi.us
-DOMAIN-SUFFIX,qvc.com
-DOMAIN-SUFFIX,bmr.ca
-DOMAIN-SUFFIX,canadiantire.ca
-DOMAIN-SUFFIX,canadiantire.scene7.com
-DOMAIN-SUFFIX,burlington.com
-DOMAIN-SUFFIX,sierra.com
-DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,target.com
-DOMAIN-SUFFIX,oceanstatejoblot.co
-DOMAIN-SUFFIX,dollargeneral.com
-DOMAIN-SUFFIX,rossstores.com
-DOMAIN-SUFFIX,rosesdiscountstores.com
-DOMAIN-SUFFIX,petco.com
-DOMAIN-SUFFIX,petsmart.com
 DOMAIN-SUFFIX,acehardware.com
 DOMAIN-SUFFIX,acehardware-vendors.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
-DOMAIN-SUFFIX,lowescdn.com
-DOMAIN-SUFFIX,turfusa.com
 
 # Ai general rules
 DOMAIN,api.statsig.com

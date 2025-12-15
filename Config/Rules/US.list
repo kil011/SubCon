@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,dollargeneral.com
 DOMAIN-SUFFIX,rona.ca
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,mx
 
 # Ai general rules
 DOMAIN,api.statsig.com

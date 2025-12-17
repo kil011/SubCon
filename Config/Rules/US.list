@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,acehardware-vendors.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,dollargeneral.com
-DOMAIN-SUFFIX,US
-DOMAIN-SUFFIX,CA
-DOMAIN-SUFFIX,MX
+#DOMAIN-SUFFIX,US
+#DOMAIN-SUFFIX,CA
+#DOMAIN-SUFFIX,MX
 
 # Ai general rules
 #DOMAIN,api.statsig.com
@@ -80,3 +80,4 @@ DOMAIN-SUFFIX,MX
 #DOMAIN-SUFFIX,openai.com
 #DOMAIN-SUFFIX,azureedge.net
 #DOMAIN-SUFFIX,imgix.net
+

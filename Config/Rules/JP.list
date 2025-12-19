@@ -32,8 +32,6 @@ DOMAIN-SUFFIX,guzzoni.apple.com
 # Google AI
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google
-DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,googletagmanager.com

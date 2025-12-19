@@ -57,6 +57,9 @@ DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
 DOMAIN-SUFFIX,lh3.google.com
+DOMAIN-SUFFIX,lh4.google.com
+DOMAIN-SUFFIX,lh5.google.com
+DOMAIN-SUFFIX,lh6.google.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
 DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
 DOMAIN-SUFFIX,gateway-pa.googleapis.com
@@ -83,3 +86,4 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
+

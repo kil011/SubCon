@@ -83,3 +83,4 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,datadog.pool.ntp.org

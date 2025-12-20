@@ -1,4 +1,5 @@
 # Ai general rules
+DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,static.cloudflareinsights.com

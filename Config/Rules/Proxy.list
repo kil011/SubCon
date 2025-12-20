@@ -115,7 +115,7 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wtfismyip.com
 
 # Netflix
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net

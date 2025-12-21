@@ -6,6 +6,22 @@ DOMAIN-SUFFIX,acehardware-vendors.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,dollargeneral.com
+DOMAIN-SUFFIX,88player.top
+DOMAIN-SUFFIX,88kq.cc
+DOMAIN-SUFFIX,88zhibo.cc
+DOMAIN-SUFFIX,sportsteam368.com
+DOMAIN-SUFFIX,sportsteam25.com
+DOMAIN-SUFFIX,toutiaozb.com
+
+# YouTube
+#DOMAIN-SUFFIX,youtubei.googleapis.com
+#DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,gvt1.com
 
 # Ai general rules
 DOMAIN-SUFFIX,api.revenuecat.com

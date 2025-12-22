@@ -15,15 +15,9 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
 
 #DOMAIN-SUFFIX,apis.google.com
 #DOMAIN-SUFFIX,bard.google.com
@@ -53,8 +47,6 @@ DOMAIN-SUFFIX,yt.be
 #DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 #DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 #DOMAIN-SUFFIX,voilatile-pa.googleapis.com
-#DOMAIN-SUFFIX,youtubei.googleapis.com
-#DOMAIN-SUFFIX,yt3.ggpht.com
 
 # Ai general rules
 DOMAIN-SUFFIX,api.revenuecat.com
@@ -101,5 +93,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,datadog.pool.ntp.org
+
 
 

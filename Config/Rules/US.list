@@ -6,12 +6,6 @@ DOMAIN-SUFFIX,acehardware-vendors.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,dollargeneral.com
-DOMAIN-SUFFIX,88player.top
-DOMAIN-SUFFIX,88kq.cc
-DOMAIN-SUFFIX,88zhibo.cc
-DOMAIN-SUFFIX,sportsteam368.com
-DOMAIN-SUFFIX,sportsteam25.com
-DOMAIN-SUFFIX,toutiaozb.com
 
 # Google AI
 DOMAIN-SUFFIX,goog
@@ -107,4 +101,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,datadog.pool.ntp.org
+
 

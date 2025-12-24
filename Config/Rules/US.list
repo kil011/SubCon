@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,acehardware-vendors.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,dollargeneral.com
+DOMAIN-SUFFIX,dhl.com
+DOMAIN-SUFFIX,5idhl.com
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,ups.com
 
 # Google AI
 DOMAIN-SUFFIX,gfiber.com
@@ -96,6 +100,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,datadog.pool.ntp.org
+
 
 
 

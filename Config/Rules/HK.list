@@ -1,12 +1,12 @@
 # My list
-DOMAIN,translate.google.com
+#DOMAIN,translate.google.com
 #DOMAIN,www.google.com
 #DOMAIN,www.google.com.hk
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,youtubei.googleapis.com
-DOMAIN-SUFFIX,yt3.ggpht.com
+#DOMAIN-SUFFIX,googlevideo.com
+#DOMAIN-SUFFIX,gvt1.com
+#DOMAIN-SUFFIX,youtube.com
+#DOMAIN-SUFFIX,ytimg.com
+#DOMAIN-SUFFIX,youtu.be
+#DOMAIN-SUFFIX,yt.be
+#DOMAIN-SUFFIX,youtubei.googleapis.com
+#DOMAIN-SUFFIX,yt3.ggpht.com

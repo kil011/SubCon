@@ -1,5 +1,6 @@
+payload:
 # Mylist
-DOMAIN-SUFFIX,homehardwarecenter.com
+  - 'DOMAIN-SUFFIX,homehardwarecenter.com'
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,acehardware.com
 DOMAIN-SUFFIX,acehardware-vendors.com

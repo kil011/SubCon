@@ -10,7 +10,6 @@ payload:
   - 'DOMAIN-SUFFIX,fedex.com'
   - 'DOMAIN-SUFFIX,ups.com'
   - 'DOMAIN-SUFFIX,cloudfront.net'
-  - 'DOMAIN-SUFFIX,spotify.com'
   - 'DOMAIN-SUFFIX,fusebox.fm'
   - 'DOMAIN-SUFFIX,fireside.fm'
   - 'DOMAIN-SUFFIX,samsung.com'

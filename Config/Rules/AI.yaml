@@ -1,13 +1,4 @@
 payload:
-# Mylist 
-- DOMAIN-SUFFIX,homehardwarecenter.com 
-- DOMAIN-SUFFIX,amazon.com 
-- DOMAIN-SUFFIX,acehardware.com 
-- DOMAIN-SUFFIX,acehardware-vendors.com 
-- DOMAIN-SUFFIX,homedepot.com 
-- DOMAIN-SUFFIX,lowes.com 
-- DOMAIN-SUFFIX,dollargeneral.com 
-
 # Ai general rules
 - DOMAIN-SUFFIX,api.revenuecat.com
 - DOMAIN-SUFFIX,api.statsig.com

@@ -1,5 +1,6 @@
 payload:
 # Ai general rules
+- DOMAIN-SUFFIX,challenges.cloudflare.com
 - DOMAIN-SUFFIX,api.revenuecat.com
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,browser-intake-datadoghq.com

@@ -54,6 +54,10 @@ DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,datadog.pool.ntp.org
 
 # Google AI
+DOMAIN-SUFFIX,signaler-pa.clients6.google.com
+DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com

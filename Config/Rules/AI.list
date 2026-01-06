@@ -1,4 +1,5 @@
 # Ai general rules
+DOMAIN-SUFFIX,secureapi.samqaicongen.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
@@ -75,5 +76,6 @@ DOMAIN-SUFFIX,s3.googleusercontent.com
 DOMAIN-SUFFIX,speech.googleapis.com
 DOMAIN-SUFFIX,texttospeech.googleapis.com
 DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
+
 
 

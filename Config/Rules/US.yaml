@@ -7,3 +7,10 @@ payload:
 - DOMAIN-SUFFIX,homedepot.com 
 - DOMAIN-SUFFIX,lowes.com 
 - DOMAIN-SUFFIX,dollargeneral.com
+
+- DOMAIN-SUFFIX,lens-pa.googleapis.com
+- DOMAIN-SUFFIX,lens.google.com
+- DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+- DOMAIN-SUFFIX,ogs.google.com
+- DOMAIN-SUFFIX,lensfrontend-pa.googleapis.com
+- DOMAIN-SUFFIX,clients4.google.com

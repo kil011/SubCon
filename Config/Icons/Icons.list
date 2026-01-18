@@ -1,1 +1,14 @@
-https://raw.githubusercontent.com/kil011/SubCon/master/Config/Icons/QX.png
+{
+  "name": "My Icons",
+  "description": "",
+  "icons": [
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/kil011/SubCon/master/Config/Icons/US.png"
+    },
+    {
+      "name": "QX",
+      "url": "https://raw.githubusercontent.com/kil011/SubCon/master/Config/Icons/QX.png"
+    }
+  ]
+}

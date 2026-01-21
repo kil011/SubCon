@@ -1,10 +1,11 @@
 payload:
 # Mylist 
-- DOMAIN-SUFFIX,homehardwarecenter.com 
-- DOMAIN-SUFFIX,amazon.com 
-- DOMAIN-SUFFIX,acehardware.com 
-- DOMAIN-SUFFIX,acehardware-vendors.com 
-- DOMAIN-SUFFIX,homedepot.com 
-- DOMAIN-SUFFIX,lowes.com 
+- DOMAIN-SUFFIX,homehardwarecenter.com
+- DOMAIN-SUFFIX,amazon.comm
+- DOMAIN-SUFFIX,media-amazon.com
+- DOMAIN-SUFFIX,acehardware.com
+- DOMAIN-SUFFIX,acehardware-vendors.com
+- DOMAIN-SUFFIX,homedepot.com
+- DOMAIN-SUFFIX,lowes.com
 - DOMAIN-SUFFIX,dollargeneral.com
 - DOMAIN-SUFFIX,amp-api.podcasts.apple.com

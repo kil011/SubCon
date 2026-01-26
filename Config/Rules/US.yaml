@@ -6,14 +6,6 @@ payload:
 - DOMAIN-KEYWORD,homedepot
 - DOMAIN-KEYWORD,thd
 - DOMAIN-KEYWORD,acehardware
+- DOMAIN-KEYWORD,ace-p
 - DOMAIN-KEYWORD,homehardware
 - DOMAIN-KEYWORD,dollargeneral
-
-#- DOMAIN-SUFFIX,amazon.comm
-#- DOMAIN-SUFFIX,media-amazon.com
-#- DOMAIN-SUFFIX,homehardwarecenter.com
-#- DOMAIN-SUFFIX,acehardware.com
-#- DOMAIN-SUFFIX,acehardware-vendors.com
-#- DOMAIN-SUFFIX,homedepot.com
-#- DOMAIN-SUFFIX,lowes.com
-#- DOMAIN-SUFFIX,dollargeneral.com

@@ -57,6 +57,7 @@ payload:
 - DOMAIN-SUFFIX,proactive-pa.clients6.google.com
 - DOMAIN-SUFFIX,signaler-pa.clients6.google.com
 - DOMAIN-SUFFIX,appsgenaiserver-pa.clients6.google.com
+- DOMAIN-SUFFIX,addons-pa.googleapis.com
 - DOMAIN-SUFFIX,jnn-pa.googleapis.com
 - DOMAIN-SUFFIX,opa-pa.googleapis.com
 - DOMAIN-SUFFIX,speech.googleapis.com

@@ -65,6 +65,7 @@ payload:
 - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 - DOMAIN-SUFFIX,voilatile-pa.googleapis.com
 - DOMAIN-SUFFIX,texttospeech.googleapis.com
+- DOMAIN-SUFFIX,appsgenaiserver-pa.googleapis.com
 - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 - DOMAIN-SUFFIX,content-push.googleapis.com
 - DOMAIN-SUFFIX,generativelanguage.googleapis.com

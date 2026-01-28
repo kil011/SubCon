@@ -58,6 +58,7 @@ payload:
 - DOMAIN-SUFFIX,gemini.google.com
 - DOMAIN-SUFFIX,aistudio.google.com
 - DOMAIN-SUFFIX,notebooklm.google.com
+- DOMAIN-SUFFIX,espresso-pa.clients6.google.com
 - DOMAIN-SUFFIX,waa-pa.clients6.google.com
 - DOMAIN-SUFFIX,ucl-pa.clients6.google.com
 - DOMAIN-SUFFIX,proactive-pa.clients6.google.com

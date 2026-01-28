@@ -1,9 +1,7 @@
 payload:
-- DOMAIN-SUFFIX,secureapi.samqaicongen.com
 - DOMAIN-SUFFIX,challenges.cloudflare.com
 - DOMAIN-SUFFIX,api.revenuecat.com
 - DOMAIN-SUFFIX,api.statsig.com
-- DOMAIN-SUFFIX,browser-intake-datadoghq.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,algolia.net
 - DOMAIN-SUFFIX,auth0.com
@@ -14,10 +12,6 @@ payload:
 - DOMAIN-SUFFIX,intercom.io
 - DOMAIN-SUFFIX,intercomcdn.com
 - DOMAIN-SUFFIX,launchdarkly.com
-- DOMAIN-SUFFIX,segment.io
-- DOMAIN-SUFFIX,amazonaws.com
-- DOMAIN-SUFFIX,wp.com
-- DOMAIN-SUFFIX,sentry.io
 - DOMAIN-SUFFIX,stripe.com
 
 # Apple AI
@@ -41,9 +35,16 @@ payload:
 - DOMAIN-SUFFIX,oaistatic.com
 - DOMAIN-SUFFIX,oaiusercontent.com
 - DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,azureedge.net
 - DOMAIN-SUFFIX,imgix.net
 - DOMAIN-SUFFIX,datadog.pool.ntp.org
+- DOMAIN-SUFFIX,oai.com
+- DOMAIN-SUFFIX,chat.com
+- DOMAIN-SUFFIX,sora.com
+- DOMAIN-SUFFIX,hcaptcha.com
+- DOMAIN-SUFFIX,turnstile.cloudflare.com
+- DOMAIN-SUFFIX,host.livekit.cloud
+- DOMAIN-SUFFIX,turn.livekit.cloud
+- DOMAIN-SUFFIX,perplexity.ai
 
 # Google AI
 - DOMAIN-SUFFIX,addons-pa.clients6.google.com

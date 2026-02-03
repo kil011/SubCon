@@ -26,6 +26,8 @@ payload:
 - DOMAIN-SUFFIX,guzzoni.apple.com
 
 # OpenAI/ChatGPT
+- DOMAIN-KEYWORD,openai
+- DOMAIN-KEYWORD,chatgpt
 - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
@@ -47,6 +49,8 @@ payload:
 - DOMAIN-SUFFIX,perplexity.ai
 
 # Google AI
+- DOMAIN-KEYWORD,gemini
+- DOMAIN-KEYWORD,notebooklm
 - DOMAIN-SUFFIX,addons-pa.clients6.google.com
 - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
 - DOMAIN-SUFFIX,appsgenaiserver-pa.clients6.google.com

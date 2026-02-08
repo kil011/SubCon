@@ -4,7 +4,6 @@ payload:
 - DOMAIN-SUFFIX,ntp.org
 - DOMAIN-SUFFIX,comodoca.com
 - DOMAIN-SUFFIX,windows.com
-- DOMAIN-SUFFIX,gov
 - DOMAIN-SUFFIX,api.wcc.best
 - DOMAIN-SUFFIX,sub.xeton.dev
 - DOMAIN-SUFFIX,jsdelivr.net

@@ -1,6 +1,5 @@
 payload:
 # My list
-#- DOMAIN-SUFFIX,fumamx.com
 - DOMAIN-SUFFIX,we.tl
 - DOMAIN-SUFFIX,wetransfer.net
 - DOMAIN-SUFFIX,wetransfer.com

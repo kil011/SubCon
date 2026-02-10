@@ -140,4 +140,4 @@ payload:
 - DOMAIN-SUFFIX,update.googleapis.com
 - DOMAIN-SUFFIX,securitydomain-pa.googleapis.com
 - DOMAIN-SUFFIX,clientservices.googleapis.com
-
+- DOMAIN-SUFFIX,identitytoolkit.googleapis.com

@@ -78,6 +78,7 @@ payload:
 # Google AI
 - DOMAIN-KEYWORD,gemini
 - DOMAIN-KEYWORD,notebooklm
+- DOMAIN-SUFFIX,history.google.com
 - DOMAIN-SUFFIX,apis.google.com
 - DOMAIN-SUFFIX,client-channel.google.com
 - DOMAIN-SUFFIX,clients4.google.com

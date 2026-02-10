@@ -85,7 +85,6 @@ payload:
 - DOMAIN-SUFFIX,ogs.google.com
 - DOMAIN-SUFFIX,accounts.google.com
 - DOMAIN-SUFFIX,gstatic.com
-- DOMAIN-SUFFIX,google-public-dns.com
 - DOMAIN-SUFFIX,addons-pa.clients6.google.com
 - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
 - DOMAIN-SUFFIX,appsgenaiserver-pa.clients6.google.com
@@ -135,11 +134,6 @@ payload:
 - DOMAIN-SUFFIX,s3.googleusercontent.com
 - DOMAIN-SUFFIX,labs.google
 - DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,withgoogle.com
-- DOMAIN-SUFFIX,android.clients.google.com
-- DOMAIN-SUFFIX,update.googleapis.com
 - DOMAIN-SUFFIX,securitydomain-pa.googleapis.com
 - DOMAIN-SUFFIX,clientservices.googleapis.com
 - DOMAIN-SUFFIX,identitytoolkit.googleapis.com
-- DOMAIN-SUFFIX,widevine.com
-- DOMAIN-SUFFIX,g.co

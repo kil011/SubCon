@@ -1,5 +1,6 @@
 payload:
 # MyList
+- DOMAIN-SUFFIX,fumamx.com
 - DOMAIN-SUFFIX,time.android.com
 - DOMAIN-SUFFIX,ntp.org
 - DOMAIN-SUFFIX,comodoca.com

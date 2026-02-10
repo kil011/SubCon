@@ -141,3 +141,5 @@ payload:
 - DOMAIN-SUFFIX,securitydomain-pa.googleapis.com
 - DOMAIN-SUFFIX,clientservices.googleapis.com
 - DOMAIN-SUFFIX,identitytoolkit.googleapis.com
+- DOMAIN-SUFFIX,widevine.com
+- DOMAIN-SUFFIX,g.co

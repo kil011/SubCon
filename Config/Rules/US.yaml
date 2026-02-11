@@ -100,6 +100,7 @@ payload:
 - DOMAIN-SUFFIX,makersuite.google.com
 - DOMAIN-SUFFIX,mtalk.google.com
 - DOMAIN-SUFFIX,ogs.google.com
+- DOMAIN-SUFFIX,play.google.com
 - DOMAIN-SUFFIX,studio.workspace.google.com
 - DOMAIN-SUFFIX,addons-pa.googleapis.com
 - DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com

@@ -1,3 +1,5 @@
 payload:
 - DOMAIN-SUFFIX,xiaohongshu.com
 - DOMAIN-SUFFIX,xhscdn.com
+- DOMAIN-SUFFIX,icloud.com
+- DOMAIN-SUFFIX,icloud-content.com

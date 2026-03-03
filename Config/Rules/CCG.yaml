@@ -3,3 +3,7 @@ payload:
 - DOMAIN-SUFFIX,xhscdn.com
 - DOMAIN-SUFFIX,icloud.com
 - DOMAIN-SUFFIX,icloud-content.com
+- DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,bilivideo.com
+- DOMAIN-SUFFIX,biliapi.com
+- DOMAIN-SUFFIX,biliapi.net

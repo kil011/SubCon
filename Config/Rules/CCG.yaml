@@ -4,6 +4,8 @@ payload:
 - DOMAIN-SUFFIX,icloud.com
 - DOMAIN-SUFFIX,icloud-content.com
 - DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,bilistatic.cn
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,biliapi.com
 - DOMAIN-SUFFIX,biliapi.net
+- DOMAIN-SUFFIX,hdslb.com

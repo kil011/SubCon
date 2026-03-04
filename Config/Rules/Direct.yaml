@@ -38,7 +38,6 @@ payload:
 # 本地/局域网
 - DOMAIN-SUFFIX,localhost
 - DOMAIN-SUFFIX,local
-GEOIP,LAN
 - IP-CIDR,0.0.0.0/8,no-resolve
 - IP-CIDR,10.0.0.0/8,no-resolve
 - IP-CIDR,100.64.0.0/10,no-resolve
@@ -969,5 +968,6 @@ GEOIP,LAN
 - IP-CIDR,101.198.208.0/20,no-resolve
 - IP-CIDR,101.199.196.0/22,no-resolve
 
+- GEOIP,LAN
 - GEOIP,CN
 - GEOIP,APPLE

@@ -23,6 +23,7 @@ payload:
 - DOMAIN-SUFFIX,adtidy.org
 - DOMAIN-SUFFIX,amazon
 - DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+- DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 - DOMAIN-SUFFIX,testflight.apple.com
 - DOMAIN-SUFFIX,ess.apple.com
 - DOMAIN-SUFFIX,tv.apple.com

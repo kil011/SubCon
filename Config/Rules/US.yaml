@@ -37,12 +37,9 @@ payload:
 - DOMAIN-SUFFIX,oaiusercontent.com
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,imgix.net
-- DOMAIN-SUFFIX,datadog.pool.ntp.org
 - DOMAIN-SUFFIX,oai.com
 - DOMAIN-SUFFIX,chat.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,hcaptcha.com
 - DOMAIN-SUFFIX,turnstile.cloudflare.com
-- DOMAIN-SUFFIX,host.livekit.cloud
-- DOMAIN-SUFFIX,turn.livekit.cloud
-- DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,livekit.cloud

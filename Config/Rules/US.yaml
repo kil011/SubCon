@@ -6,6 +6,7 @@ payload:
 - DOMAIN-KEYWORD,homedepot
 - DOMAIN-KEYWORD,thd
 - DOMAIN-KEYWORD,lowes
+- DOMAIN-KEYWORD,tractorsupply
 - DOMAIN-KEYWORD,costco
 - DOMAIN-KEYWORD,acehardware
 - DOMAIN-KEYWORD,homehardware
@@ -31,15 +32,12 @@ payload:
 - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 - DOMAIN-SUFFIX,ai.com
-- DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,livekit.cloud
 - DOMAIN-SUFFIX,oaistatic.com
 - DOMAIN-SUFFIX,oaiusercontent.com
-- DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,imgix.net
 - DOMAIN-SUFFIX,oai.com
 - DOMAIN-SUFFIX,chat.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,hcaptcha.com
 - DOMAIN-SUFFIX,turnstile.cloudflare.com
-- DOMAIN-SUFFIX,livekit.cloud

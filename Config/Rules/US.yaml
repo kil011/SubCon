@@ -24,7 +24,6 @@ payload:
 - DOMAIN-KEYWORD,bestbuy
 - DOMAIN-KEYWORD,officedepot
 - DOMAIN-KEYWORD,kroger
-- DOMAIN-KEYWORD,msi
 
 # AI General Rules
 - DOMAIN-SUFFIX,challenges.cloudflare.com

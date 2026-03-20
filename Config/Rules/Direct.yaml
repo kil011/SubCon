@@ -26,6 +26,7 @@ payload:
 - DOMAIN-SUFFIX,xn--fiqs8s
 - DOMAIN-SUFFIX,xn--55qx5d
 - DOMAIN-SUFFIX,xn--io0a7i
+- GEOIP,CN
 
 # 路由器管理
 - DOMAIN-SUFFIX,asusrouter.com
@@ -56,6 +57,7 @@ payload:
 - IP-CIDR6,fc00::/7,no-resolve
 - IP-CIDR6,fe80::/10,no-resolve
 - IP-CIDR6,ff00::/8,no-resolve
+- GEOIP,LAN
 
 #常用
 - DOMAIN-SUFFIX,115.com
@@ -747,6 +749,7 @@ payload:
 - IP-CIDR,192.35.50.0/24,no-resolve
 - IP-CIDR,198.183.17.0/24,no-resolve
 - IP-CIDR,205.180.175.0/24,no-resolve
+- GEOIP,APPLE
 
 # 中国云服务商ip端
 # 阿里
@@ -964,7 +967,3 @@ payload:
 - IP-CIDR,101.198.200.0/21,no-resolve
 - IP-CIDR,101.198.208.0/20,no-resolve
 - IP-CIDR,101.199.196.0/22,no-resolve
-
-- GEOIP,LAN
-- GEOIP,CN
-- GEOIP,APPLE

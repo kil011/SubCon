@@ -1,6 +1,5 @@
 payload:
 # MyList
-- DOMAIN-SUFFIX,msisurfaces.com,no-reslove
 - DOMAIN-SUFFIX,fumamx.com
 - DOMAIN-SUFFIX,time.android.com
 - DOMAIN-SUFFIX,ntp.org

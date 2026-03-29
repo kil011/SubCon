@@ -41,3 +41,7 @@ payload:
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,hcaptcha.com
 - DOMAIN-SUFFIX,turnstile.cloudflare.com
+
+#NotebookLM
+- DOMAIN-SUFFIX,notebooklm.google
+- DOMAIN-SUFFIX,notebooklm.google.com

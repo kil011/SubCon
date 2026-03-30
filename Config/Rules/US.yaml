@@ -44,4 +44,4 @@ payload:
 
 # NotebookLM
 - DOMAIN-KEYWORD,notebooklm
-- DOMAIN-KEYWORD,notebooklm-pa
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com

@@ -43,7 +43,7 @@ payload:
 - DOMAIN-SUFFIX,turnstile.cloudflare.com
 
 # NotebookLM
-- DOMAIN-KEYWORD,notebooklm
-- DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,notebooklm.google.com
-- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+#- DOMAIN-KEYWORD,notebooklm
+#- DOMAIN-SUFFIX,notebooklm.google
+#- DOMAIN-SUFFIX,notebooklm.google.com
+#- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com

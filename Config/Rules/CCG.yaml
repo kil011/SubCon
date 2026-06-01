@@ -11,8 +11,8 @@ payload:
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN,upos-hz-mirrorakam.akamaized.net
 - DOMAIN-SUFFIX,hdslb.com
-- DOMAIN-SUFFIX,music.163.com
-- DOMAIN-SUFFIX,music.126.net
+- DOMAIN-SUFFIX,163.com
+- DOMAIN-SUFFIX,126.net
 - DOMAIN-SUFFIX,qunar.com
 - DOMAIN-SUFFIX,ximalaya.com
 - DOMAIN-SUFFIX,xmcdn.com

@@ -1,5 +1,9 @@
 payload:
 # My list
+- DOMAIN-SUFFIX,dhl.com
+- DOMAIN-SUFFIX,5idhl.com
+- DOMAIN-SUFFIX,fedex.com
+- DOMAIN-SUFFIX,ups.com
 - DOMAIN-SUFFIX,msisurfaces.com
 - DOMAIN-SUFFIX,jianguoyun.com
 - DOMAIN-SUFFIX,we.tl

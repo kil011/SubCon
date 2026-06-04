@@ -13,6 +13,6 @@ payload:
 - DOMAIN-KEYWORD,126.net
 - DOMAIN-KEYWORD,qunar
 - DOMAIN-KEYWORD,ximalaya
-- DOMAIN-SUFFIX,xmcdn.com
+- DOMAIN-KEYWORD,xmcdn
+- DOMAIN-KEYWORD,hdslb
 - DOMAIN,upos-hz-mirrorakam.akamaized.net
-- DOMAIN-SUFFIX,hdslb.com

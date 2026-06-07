@@ -184,6 +184,16 @@ payload:
 - DOMAIN-SUFFIX,yt.be
 - GEOIP,GOOGLE
 
+# Claude
+- DOMAIN-KEYWORD,anthropic
+- DOMAIN-KEYWORD,claude
+- DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.media
+- DOMAIN-SUFFIX,claudestatic.com
+- DOMAIN-SUFFIX,claudeusercontent.com
+- DOMAIN-SUFFIX,stripe.network
+
 # Netflix
 - DOMAIN-SUFFIX,netflix.com.edgesuite.net
 - DOMAIN-SUFFIX,fast.com

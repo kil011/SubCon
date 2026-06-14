@@ -131,7 +131,6 @@ payload:
 - DOMAIN-SUFFIX,wtfismyip.com
 
 # AI General Rules
-- DOMAIN-SUFFIX,challenges.cloudflare.com
 - DOMAIN-SUFFIX,api.revenuecat.com
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
@@ -161,7 +160,6 @@ payload:
 - DOMAIN-SUFFIX,chat.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,hcaptcha.com
-- DOMAIN-SUFFIX,turnstile.cloudflare.com
 
 # Google
 - DOMAIN-SUFFIX,gfiber.com

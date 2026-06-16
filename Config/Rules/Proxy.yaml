@@ -162,6 +162,7 @@ payload:
 - DOMAIN-SUFFIX,hcaptcha.com
 
 # Google
+- DOMAIN-SUFFIX,fitbit.com
 - DOMAIN-SUFFIX,gfiber.com
 - DOMAIN-SUFFIX,ggpht.com
 - DOMAIN-SUFFIX,gmail.com

@@ -1,25 +1,67 @@
 payload:
-- DOMAIN-SUFFIX,xiaohongshu.com
-- DOMAIN-SUFFIX,xhscdn.com
-- DOMAIN-SUFFIX,cdn-apple.com
-- DOMAIN-SUFFIX,apple.com
-- DOMAIN-SUFFIX,icloud.com
-- DOMAIN-SUFFIX,icloud-content.com
-- DOMAIN-SUFFIX,bilibili.com
-- DOMAIN-SUFFIX,bilistatic.cn
-- DOMAIN-SUFFIX,bilivideo.com
-- DOMAIN-SUFFIX,biliapi.com
-- DOMAIN-SUFFIX,biliapi.net
-- DOMAIN-SUFFIX,163.com
-- DOMAIN-SUFFIX,126.net
-- DOMAIN-SUFFIX,xinqiucc.com
-- DOMAIN-SUFFIX,qunar.com
-- DOMAIN-SUFFIX,ximalaya.com
-- DOMAIN-SUFFIX,xmcdn.com
-- DOMAIN-SUFFIX,hdslb.com
-- DOMAIN,upos-hz-mirrorakam.akamaized.net
-- DOMAIN-SUFFIX,pinduoduo.com
-- DOMAIN-SUFFIX,pdd.com
-- DOMAIN-SUFFIX,goofish.com
-- DOMAIN-SUFFIX,shihuo.com
-- DOMAIN-SUFFIX,taobao.com
+  # 小红书
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,xhscdn.com
+  - DOMAIN-SUFFIX,fegine.com
+
+  # Apple / iCloud
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,mzstatic.com
+
+  # 哔哩哔哩
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilistatic.cn
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.cn
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
+
+  # 网易
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,127.net
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,xinqiucc.com
+
+  # 去哪儿
+  - DOMAIN-SUFFIX,qunar.com
+
+  # 喜马拉雅
+  - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
+
+  # 拼多多
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,pdd.com
+  - DOMAIN-SUFFIX,yangkeduo.com
+  - DOMAIN-SUFFIX,pddpic.com
+
+  # 闲鱼 / 识货 / 淘宝(阿里系,支付除外)
+  - DOMAIN-SUFFIX,goofish.com
+  - DOMAIN-SUFFIX,shihuo.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,taobaocdn.com
+  - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,mmstat.com
+
+  # 美团 / 大众点评
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,meituan.net
+  - DOMAIN-SUFFIX,dpfile.com
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,maoyan.com
+  - DOMAIN-SUFFIX,sankuai.com
+
+  # 京东
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,jcloudcs.com
+  - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,jddj.com

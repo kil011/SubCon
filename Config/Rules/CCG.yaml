@@ -49,6 +49,8 @@ payload:
 - DOMAIN-SUFFIX,tmall.com
 - DOMAIN-SUFFIX,alicdn.com
 - DOMAIN-SUFFIX,mmstat.com
+- IP-CIDR,203.119.238.12/32
+- IP-CIDR,59.82.133.3/32
 
 # 美团 / 大众点评
 - DOMAIN-SUFFIX,meituan.com

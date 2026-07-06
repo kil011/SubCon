@@ -66,6 +66,8 @@ payload:
 - DOMAIN-SUFFIX,jd.hk
 - DOMAIN-SUFFIX,jddj.com
 
+# 小红书
+- IP-ASN,151282
 # Apple / iCloud
 - IP-ASN,714
 - IP-ASN,6185

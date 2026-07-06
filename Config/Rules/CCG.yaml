@@ -65,3 +65,22 @@ payload:
 - DOMAIN-SUFFIX,jcloudcs.com
 - DOMAIN-SUFFIX,jd.hk
 - DOMAIN-SUFFIX,jddj.com
+
+# Apple / iCloud
+- IP-ASN,714
+- IP-ASN,6185
+# 哔哩哔哩
+- IP-ASN,63828
+- IP-ASN,140633
+# 网易
+- IP-ASN,45062
+- IP-ASN,137263
+# 淘宝 / 天猫 / 阿里 CDN
+- IP-ASN,24429
+- IP-ASN,37963
+- IP-ASN,45102
+- IP-ASN,134963
+# 美团 / 大众点评
+- IP-ASN,59025
+- IP-ASN,63619
+- IP-ASN,4811

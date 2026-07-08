@@ -29,11 +29,6 @@ payload:
 # 喜马拉雅
 - DOMAIN-SUFFIX,ximalaya.com
 - DOMAIN-SUFFIX,xmcdn.com
-# 拼多多
-- DOMAIN-SUFFIX,pinduoduo.com
-- DOMAIN-SUFFIX,pdd.com
-- DOMAIN-SUFFIX,yangkeduo.com
-- DOMAIN-SUFFIX,pddpic.com
 # 闲鱼 / 识货 / 淘宝(阿里系,支付除外)
 - DOMAIN-SUFFIX,goofish.com
 - DOMAIN-SUFFIX,shihuo.com
@@ -49,13 +44,6 @@ payload:
 - DOMAIN-SUFFIX,dianping.com
 - DOMAIN-SUFFIX,maoyan.com
 - DOMAIN-SUFFIX,sankuai.com
-# 京东
-- DOMAIN-SUFFIX,jd.com
-- DOMAIN-SUFFIX,360buyimg.com
-- DOMAIN-SUFFIX,jdcloud.com
-- DOMAIN-SUFFIX,jcloudcs.com
-- DOMAIN-SUFFIX,jd.hk
-- DOMAIN-SUFFIX,jddj.com
 
 # 小红书
 - IP-ASN,151282

@@ -1,7 +1,5 @@
 payload:
 # MyList
-- DOMAIN-SUFFIX,tello.com
-- DOMAIN-SUFFIX,t-mobile.com
 - DOMAIN-SUFFIX,keepcalling.net
 - DOMAIN-SUFFIX,fumamx.com
 - DOMAIN-SUFFIX,time.android.com

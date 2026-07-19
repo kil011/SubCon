@@ -31,8 +31,8 @@ payload:
 - DOMAIN-SUFFIX,tv.apple.com
 - DOMAIN-SUFFIX,podcasts.apple.com
 - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-#- DOMAIN-SUFFIX,tello.com
-#- DOMAIN-SUFFIX,t-mobile.com
+- DOMAIN-SUFFIX,tello.com
+- DOMAIN-SUFFIX,t-mobile.com
 - DOMAIN-SUFFIX,paypal.com
 - DOMAIN-SUFFIX,paypalobjects.com
 - DOMAIN-SUFFIX,reddit.com

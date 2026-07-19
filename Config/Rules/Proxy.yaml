@@ -21,7 +21,6 @@ payload:
 - DOMAIN-SUFFIX,fireside.fm
 - DOMAIN-SUFFIX,samsung.com
 - DOMAIN-SUFFIX,crashlytics.com
-- DOMAIN-SUFFIX,t-mobile.com
 - DOMAIN-SUFFIX,ncdn.ec
 - DOMAIN-SUFFIX,adtidy.org
 - DOMAIN-SUFFIX,amazon
@@ -32,7 +31,8 @@ payload:
 - DOMAIN-SUFFIX,tv.apple.com
 - DOMAIN-SUFFIX,podcasts.apple.com
 - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-- DOMAIN-SUFFIX,tello.com
+#- DOMAIN-SUFFIX,tello.com
+#- DOMAIN-SUFFIX,t-mobile.com
 - DOMAIN-SUFFIX,paypal.com
 - DOMAIN-SUFFIX,paypalobjects.com
 - DOMAIN-SUFFIX,reddit.com

@@ -157,7 +157,6 @@ payload:
 - DOMAIN-SUFFIX,it168.com
 - DOMAIN-SUFFIX,ithome.com
 - DOMAIN-SUFFIX,ixdzs.com
-- DOMAIN-SUFFIX,jianguoyun.com
 - DOMAIN-SUFFIX,jianshu.com
 - DOMAIN-SUFFIX,jianshu.io
 - DOMAIN-SUFFIX,jianshuapi.com
@@ -418,7 +417,6 @@ payload:
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,hdslb.com
 - DOMAIN-SUFFIX,im9.com
-- DOMAIN-SUFFIX,smtcdns.net
 
 # ByteDance
 - DOMAIN-SUFFIX,amemv.com
@@ -729,7 +727,6 @@ payload:
 - DOMAIN-SUFFIX,apple.com
 - DOMAIN-SUFFIX,icloud.com
 - DOMAIN-SUFFIX,aaplimg.com
-- DOMAIN-SUFFIX,akadns.net
 - DOMAIN-SUFFIX,apple-cloudkit.com
 - DOMAIN-SUFFIX,apple-dns.net
 - DOMAIN-SUFFIX,apple-mapkit.com

@@ -23,7 +23,6 @@ payload:
 - DOMAIN-SUFFIX,crashlytics.com
 - DOMAIN-SUFFIX,ncdn.ec
 - DOMAIN-SUFFIX,adtidy.org
-- DOMAIN-SUFFIX,amazon
 - DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
 - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 - DOMAIN-SUFFIX,testflight.apple.com
@@ -166,8 +165,6 @@ payload:
 - DOMAIN-SUFFIX,gfiber.com
 - DOMAIN-SUFFIX,ggpht.com
 - DOMAIN-SUFFIX,gmail.com
-- DOMAIN-SUFFIX,goog
-- DOMAIN-SUFFIX,google
 - DOMAIN-SUFFIX,google.dev
 - DOMAIN-SUFFIX,google.com
 - DOMAIN-SUFFIX,google.com.hk
@@ -432,7 +429,6 @@ payload:
 - DOMAIN-SUFFIX,live.com
 - DOMAIN-SUFFIX,live.net
 - DOMAIN-SUFFIX,lync.com
-- DOMAIN-SUFFIX,microsoft
 - DOMAIN-SUFFIX,microsoft.com
 - DOMAIN-SUFFIX,msappproxy.net
 - DOMAIN-SUFFIX,msauth.net

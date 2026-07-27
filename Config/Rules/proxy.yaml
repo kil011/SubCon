@@ -1,6 +1,7 @@
 payload:
 # My list
 - DOMAIN-SUFFIX,cloudflare.com
+- DOMAIN-SUFFIX,usps.com
 - DOMAIN-SUFFIX,dhl.com
 - DOMAIN-SUFFIX,5idhl.com
 - DOMAIN-SUFFIX,fedex.com

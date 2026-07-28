@@ -193,7 +193,7 @@ payload:
 - DOMAIN-SUFFIX,stripe.network
 
 # Apple AI
-- DOMAIN-SUFFIX,gateway.icloud.com
+#- DOMAIN-SUFFIX,gateway.icloud.com
 - DOMAIN-SUFFIX,mesu.apple.com
 - DOMAIN-SUFFIX,siri.apple.com
 - DOMAIN-SUFFIX,gs-loc.apple.com

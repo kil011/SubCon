@@ -58,7 +58,7 @@ payload:
 - IP-CIDR6,fc00::/7,no-resolve
 - IP-CIDR6,fe80::/10,no-resolve
 - IP-CIDR6,ff00::/8,no-resolve
-- GEOIP,LAN
+- GEOIP,lan
 
 #常用
 - DOMAIN-SUFFIX,115.com

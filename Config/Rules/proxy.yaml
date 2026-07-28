@@ -180,7 +180,7 @@ payload:
 - DOMAIN-SUFFIX,ytimg.com
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,yt.be
-- GEOIP,GOOGLE
+- GEOIP,google
 
 # Claude
 - DOMAIN-KEYWORD,anthropic

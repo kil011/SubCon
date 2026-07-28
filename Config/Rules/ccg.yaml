@@ -21,7 +21,7 @@ payload:
 # 网易
 - DOMAIN-SUFFIX,music.163.com
 - DOMAIN-SUFFIX,music.126.net
-- DOMAIN-SUFFIX,127.net
+#- DOMAIN-SUFFIX,127.net
 - DOMAIN-SUFFIX,netease.com
 - DOMAIN-SUFFIX,xinqiucc.com
 # 去哪儿

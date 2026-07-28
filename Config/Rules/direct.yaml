@@ -23,11 +23,11 @@ payload:
 - IP-CIDR,54.223.4.220/32,no-resolve
 
 # CN域名
-- DOMAIN-SUFFIX,CN
+- DOMAIN-SUFFIX,cn
 - DOMAIN-SUFFIX,xn--fiqs8s
 - DOMAIN-SUFFIX,xn--55qx5d
 - DOMAIN-SUFFIX,xn--io0a7i
-- GEOIP,CN
+- GEOIP,cn
 
 # 路由器管理
 - DOMAIN-SUFFIX,asusrouter.com

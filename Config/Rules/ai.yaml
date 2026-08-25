@@ -32,6 +32,7 @@ payload:
 
 # Google
 - DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebooklm.google
 - DOMAIN-SUFFIX,notebooklm.google.com
 - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 

@@ -31,8 +31,8 @@ payload:
 - DOMAIN-SUFFIX,hcaptcha.com
 
 # Google
-- DOMAIN-SUFFIX,notebooklm.google.com
 - DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebooklm.google.com
 - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 
 # Claude

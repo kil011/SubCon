@@ -33,7 +33,7 @@ payload:
 # Google
 - DOMAIN-KEYWORD,notebooklm.google.com
 - DOMAIN-KEYWORD,notebook.google
-
+- DOMAIN-KEYWORD,notebooklm-pa.googleapis.com
 # Claude
 - DOMAIN-KEYWORD,anthropic
 - DOMAIN-KEYWORD,claude

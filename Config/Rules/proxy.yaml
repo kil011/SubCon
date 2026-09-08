@@ -82,6 +82,7 @@ payload:
 - DOMAIN-SUFFIX,quantumult.app
 - DOMAIN-SUFFIX,chatway.app
 - DOMAIN-SUFFIX,speedtest.net
+- DOMAIN-SUFFIX,jsdelivr.net
 - IP-CIDR,208.54.5.195/32,no-resolve
 
 # IP Detection

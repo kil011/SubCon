@@ -8,7 +8,6 @@ payload:
 - DOMAIN-SUFFIX,windows.com
 - DOMAIN-SUFFIX,api.wcc.best
 - DOMAIN-SUFFIX,sub.xeton.dev
-- DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,kuaidi.com
 - DOMAIN-SUFFIX,kuaidi100.com
 - DOMAIN-SUFFIX,sonos.com

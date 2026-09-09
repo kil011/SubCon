@@ -29,5 +29,6 @@ payload:
 - DOMAIN-SUFFIX,5idhl.com
 - DOMAIN-SUFFIX,fedex.com
 - DOMAIN-SUFFIX,ups.com
-
-- DOMAIN-KEYWORD,notebook
+- DOMAIN-SUFFIX,notebooklm.com
+- DOMAIN-SUFFIX,notebook.google.com
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com

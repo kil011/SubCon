@@ -271,6 +271,20 @@ payload:
 - DOMAIN-SUFFIX,tiktok.com
 - DOMAIN-SUFFIX,tiktokcdn.com
 - DOMAIN-SUFFIX,tiktokv.com
+- DOMAIN-SUFFIX,byteeffect.com
+- DOMAIN-SUFFIX,bytegecko.com
+- DOMAIN-SUFFIX,byteimg.com
+- DOMAIN-SUFFIX,byteintl.net
+- DOMAIN-SUFFIX,byteperf.com
+- DOMAIN-SUFFIX,bytetos.com
+- DOMAIN-SUFFIX,bytev.com
+- DOMAIN-SUFFIX,ibyteimg.com
+- DOMAIN-SUFFIX,pangle.io
+- DOMAIN-SUFFIX,sgsnssdk.com
+- DOMAIN-SUFFIX,sstable.com
+- DOMAIN-SUFFIX,ttads.com
+- DOMAIN-SUFFIX,ttapis.com
+- DOMAIN-SUFFIX,ttlivecdn.com
 
 # Top Blocked Sites
 - DOMAIN-SUFFIX,archive.org

@@ -28,5 +28,5 @@ payload:
 # Gemini Notebook
 - DOMAIN-KEYWORD,notebooklm
 - DOMAIN-SUFFIX,notebook.google.com
-- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com

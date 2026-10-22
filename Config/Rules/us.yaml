@@ -32,3 +32,10 @@ payload:
 - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 - DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
 - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+
+# Google Fitbit
+- DOMAIN-SUFFIX,fitbit.com
+- DOMAIN-SUFFIX,fitbit.google.com
+- DOMAIN-SUFFIX,fitbit-pa.googleapis.com
+- DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
+- DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
